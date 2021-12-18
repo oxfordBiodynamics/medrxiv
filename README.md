@@ -1,2 +1,2 @@
 # medrxiv
-The supporting data of medRxiv publication
+The supporting data of medRxiv publications
